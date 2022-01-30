@@ -1,5 +1,5 @@
 # AITwitchChat
-A simple not for twitch, which has a silly AI in places. The library "cleverbot-free" is used for AI.
+A simple bot for twitch, which has a silly AI in places. The library "cleverbot-free" is used for AI.
 
 # Requiments
 [tmi.js](https://www.npmjs.com/package/tmi.js)
