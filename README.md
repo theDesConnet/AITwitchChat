@@ -24,7 +24,7 @@ A simple not for twitch, which has a silly AI in places. The library "cleverbot-
 > Language bot: English
 
 # Screenshot
-
+![ScreenshotBot](https://user-images.githubusercontent.com/31757032/151699556-087c725c-5bf3-415c-bf6e-c0960fe2571c.png)
 
 # Support Author
 DonationAlerts: https://www.donationalerts.com/r/desconnet
