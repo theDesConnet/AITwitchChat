@@ -34,4 +34,4 @@ DonationAlerts: https://www.donationalerts.com/r/desconnet
 
 [YouTube](https://youtube.com/DesConnet)
 
-Discord: DesConnet#6768AI.
+Discord: DesConnet#6768
