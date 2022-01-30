@@ -1,0 +1,7 @@
+{
+    "username":"username-twitch-account-here",
+    "twitchtoken":"access-token-twitch-account-here",
+    "mainchannelname":"main-channel-here",
+    "prefix":"!",
+    "randommsganswer": true
+}

@@ -1,0 +1,15 @@
+{
+  "name": "aitwitchchat",
+  "version": "1.0.0",
+  "description": "Simple AI Chat Bot for twitch",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DesConnet",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot-free": "^1.1.7",
+    "tmi.js": "^1.8.5"
+  }
+}
